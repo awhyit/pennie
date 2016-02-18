@@ -3334,7 +3334,7 @@
 		-webkit-transition: background-color 0s ease;
 		-ms-transition: background-color 0s ease;
 		transition: background-color 0s ease;
-		box-shadow: 0 0 4px rgba(0,0,0,.14),0 4px 8px rgba(0,0,0,.28);
+		box-shadow: 0 0 4px rgba(0,0,0,.14),0 0px 0px rgba(0,0,0,.28);
 		background: #fff;
 		height: 3.5em;
 		left: 0;
@@ -3443,6 +3443,7 @@
 
 		#header.alt {
 			background: transparent;
+			box-shadow: 0 0 0px rgba(0,0,0,.14),0 0px 0px rgba(0,0,0,.28);
 		}
 
 			#header.alt h1 {
