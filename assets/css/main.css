@@ -3330,12 +3330,11 @@
 
 					#header nav > ul > li > a {
 						border: 0;
-						color: #fff;
+						color: #ABA1B4;
 						display: block;
-						font-size: 0.8em;
-						letter-spacing: 0.225em;
-						padding: 0 1.5em;
-						text-transform: uppercase;
+						font-size: 0.9em;
+						letter-spacing: 0.1em;
+						padding: 0.5em 1.5em
 					}
 
 						#header nav > ul > li > a.menuToggle {
