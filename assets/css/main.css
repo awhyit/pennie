@@ -3343,7 +3343,7 @@
 						}
 
 							#header nav > ul > li > a.menuToggle:after {
-								background-image: url("images/chat_logo.png");
+								background-image: url("images/chat_logo.svg");
 								background-position: right center;
 								background-repeat: no-repeat;
 								content: '';
