@@ -1485,12 +1485,12 @@
 		}
 
 	h1 {
-		color: #fff;
+		color: #6E8894;
 		font-weight: 800;
 		letter-spacing: 0.1em;
-		line-height: 1.75em;
+		line-height: 0em;
 		margin: 0 0 1em 0;
-		font-size:2.1em;
+		font-size:2.9em;
 	}
 
 		@media screen and (max-width: 736px) {
