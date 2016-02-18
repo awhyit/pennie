@@ -2722,6 +2722,8 @@
 			.wrapper.style1 h2 {
 				color: #544E61;
 				font-size: 1.8em;
+				margin:0;
+				padding:0;
 			}
 			
 			.wrapper.style1 hr {
@@ -2746,7 +2748,6 @@
 		*/
 			.wrapper.style1 header.major p {
 				color: #ABA1B4;
-				padding-bottom: 0em;
 			}
 
 			.wrapper.style1 label {
