@@ -3316,12 +3316,14 @@
 /* Header */
 
 	#header {
-		-moz-transition: background-color 0.2s ease;
-		-webkit-transition: background-color 0.2s ease;
-		-ms-transition: background-color 0.2s ease;
-		transition: background-color 0.2s ease;
+		-moz-transition: background-color 0s ease;
+		-webkit-transition: background-color 0s ease;
+		-ms-transition: background-color 0s ease;
+		transition: background-color 0s ease;
 		background: #fff;
-		height: 4em;
+		border-bottom: 1px;
+		border-bottom-color: #E1DEE9;
+		height: 3.5em;
 		left: 0;
 		line-height: 3em;
 		position: fixed;
@@ -3383,7 +3385,7 @@
 						display: block;
 						font-size: 0.9em;
 						letter-spacing: 0.1em;
-						padding: 0.5em 3em
+						padding: 0.2em 3em
 					}
 
 						#header nav > ul > li > a.menuToggle {
