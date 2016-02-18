@@ -2715,11 +2715,11 @@
 				color: #ffffff;
 			}
 
-			.wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
+			.wrapper.style1 h2, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
 				color: #ffffff;
 			}
 
-			.wrapper.style1 h2 {
+			.wrapper.style1 h3 {
 				color: #544E61;
 				font-size: 1.8em;
 				margin:0px 0px 15px 0px;
@@ -2865,7 +2865,10 @@
 				.wrapper.style1 .features li {
 					border-top-color: rgba(0, 0, 0, 0.125);
 				}
-
+				.wrapper.style1 h3 {
+					font-size: 1.3em;
+					line-height: 1.5em;
+				}
 			}
 
 		.wrapper.style2 {
