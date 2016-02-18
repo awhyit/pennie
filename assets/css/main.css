@@ -1471,7 +1471,7 @@
 		margin: 0 0 2em 0;
 	}
 
-	h2, h3, h4, h5, h6 {
+	h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 800;
 		letter-spacing: 0.225em;
@@ -1488,7 +1488,7 @@
 		color: #6E8894;
 		font-weight: 800;
 		letter-spacing: 0.1em;
-		line-height: 0em;
+		line-height: 1.5em;
 		margin: 0 0 1em 0;
 		font-size:2.9em;
 	}
@@ -1497,7 +1497,7 @@
 
 			h1 {
 				font-size: 1.6em;
-				line-height: 0em;
+				line-height: 1.5em;
 			}
 
 		}
@@ -1509,14 +1509,14 @@
 		line-height: 0em;
 		margin: 0 0 1em 0;
 		font-size: 2.9em;
-		line-height: 0em;
+		line-height: 1.5em;
 	}
 
 		@media screen and (max-width: 736px) {
 
 			h2 {
 				font-size: 1.6em;
-				line-height: 0em;
+				line-height: 1.5em;
 			}
 
 		}
