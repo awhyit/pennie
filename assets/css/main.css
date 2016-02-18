@@ -2722,8 +2722,9 @@
 			.wrapper.style1 h2 {
 				color: #544E61;
 				font-size: 1.8em;
-				margin:0;
+				margin:0px 0px 15px 0px;
 				padding:0;
+				font-weight: 400;
 			}
 			
 			.wrapper.style1 hr {
