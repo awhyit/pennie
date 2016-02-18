@@ -1490,6 +1490,7 @@
 		letter-spacing: 0.1em;
 		line-height: 1.3em;
 		font-size:3.5em;
+		margin: 0 0 1em 0;
 	}
 
 		@media screen and (max-width: 736px) {
