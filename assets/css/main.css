@@ -3476,7 +3476,7 @@
 		text-align: center;
 	}
 
-		#banner h2 {
+		#banner h1 {
 			-moz-transform: scale(1);
 			-webkit-transform: scale(1);
 			-ms-transform: scale(1);
@@ -3493,7 +3493,7 @@
 			z-index: 1;
 		}
 
-			#banner h2:before, #banner h2:after {
+			#banner h1:before, #banner h1:after {
 				-moz-transition: width 0.85s ease;
 				-webkit-transition: width 0.85s ease;
 				-ms-transition: width 0.85s ease;
@@ -3510,12 +3510,12 @@
 				width: 100%;
 			}
 
-			#banner h2:before {
+			#banner h1:before {
 				top: 0;
 				left: 0;
 			}
 
-			#banner h2:after {
+			#banner h1:after {
 				bottom: 0;
 				right: 0;
 			}
