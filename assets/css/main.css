@@ -3271,8 +3271,8 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
-		height: 3em;
+		background: #fff;
+		height: 4em;
 		left: 0;
 		line-height: 3em;
 		position: fixed;
