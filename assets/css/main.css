@@ -3334,9 +3334,8 @@
 		-webkit-transition: background-color 0s ease;
 		-ms-transition: background-color 0s ease;
 		transition: background-color 0s ease;
+		box-shadow: 0 0 4px rgba(0,0,0,.14),0 4px 8px rgba(0,0,0,.28);
 		background: #fff;
-		border-bottom: 1px;
-		border-bottom-color: #E1DEE9;
 		height: 3.5em;
 		left: 0;
 		line-height: 3em;
