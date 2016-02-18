@@ -1498,6 +1498,7 @@
 			h1 {
 				font-size: 1.6em;
 				line-height: 1.5em;
+				margin: 0px 0px 10px 0px;
 			}
 
 		}
@@ -2420,7 +2421,6 @@
 			.button {
 				height: 3.75em;
 				line-height: 3.75em;
-				margin:50px 0px 0px 0px;
 			}
 
 		}
