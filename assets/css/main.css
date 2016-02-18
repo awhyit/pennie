@@ -2707,18 +2707,22 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
-			color: #c7ebe8;
+			background-color: #fff;
+			color: #ABA1B4;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
 				color: #ffffff;
 			}
 
-			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
+			.wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
 				color: #ffffff;
 			}
 
+			.wrapper.style1 h2 {
+				color: #544E61;
+			}
+			
 			.wrapper.style1 hr {
 				border-color: rgba(0, 0, 0, 0.125);
 			}
