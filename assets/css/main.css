@@ -2193,7 +2193,7 @@
 					}
 
 					ul.actions li > * {
-						margin: 0 auto !important;
+						margin: 30px auto !important;
 						max-width: 30em;
 						width: 100%;
 					}
