@@ -2384,7 +2384,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #ef5e4a !important;
+				background-color: #819FAD !important;
 			}
 
 			input[type="submit"].special:active,
@@ -2420,7 +2420,7 @@
 			.button {
 				height: 3.75em;
 				line-height: 3.75em;
-				padding:5px 0px 0px 0px;
+				margin:15px 0px 0px 0px;
 			}
 
 		}
