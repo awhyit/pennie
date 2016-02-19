@@ -3863,6 +3863,10 @@
 							#header nav > ul > li > a {
 								padding: 0 0 0 1.5em;
 							}
+							#header.alt {
+								background: #fff;
+								box-shadow: 0 0 4px rgba(0,0,0,.14),0 0px 0px rgba(0,0,0,.28);
+								}
 
 						}
 
