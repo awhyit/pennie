@@ -3038,16 +3038,18 @@
 				padding:0;
 				font-weight: 400;
 				letter-spacing: 0em;
-				line-height: 1.8em;
+				line-height: 1.5em;
 			}
 			
 		.wrapper.style2 h5 {
-				color: #544E61;
-				font-size: 1.8em;
-				margin:0px 0px 15px 0px;
+				color: #ABA1B4;
+				font-size: 1em;
+				margin:0;
+				text-align: center;
 				padding:0;
-				font-weight: 400;
+				font-weight: 100;
 				letter-spacing: 0em;
+				line-height: 1.9em;
 			}
 			
 		.wrapper.style3 {
