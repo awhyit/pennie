@@ -3034,10 +3034,11 @@
 		.wrapper.style2 h3 {
 				color: #544E61;
 				font-size: 1.8em;
-				margin:0px 0px 15px 0px;
+				margin:0 0 1em 0;
 				padding:0;
 				font-weight: 400;
 				letter-spacing: 0em;
+				line-height: 1.8em;
 			}
 			
 		.wrapper.style2 h5 {
