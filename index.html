@@ -27,7 +27,155 @@
 								<li class="special">
 									<a href="#menu" class="menuToggle"><span>Chat With Us</span></a>
 									<div id="menu">
-										<ul>
+									<section class="osc-general-login-section">
+										    <form class="osc-general-login-form" method="post" action="/auth/login">
+										      <input type="hidden" id="general-login-redirect" name="general-login-redirect" value=" "/>
+										
+										      <h3 class="osc-general-login-header">Members</h3>
+										
+										      <div class="osc-general-login-input-group">
+										        <input
+										            id="general-login-email"
+										            name="general-login-email"
+										            class="osc-general-login-input osc-general-login-input--email"
+										            type="email"
+										            placeholder="Your email address"
+										        />
+										
+										        <input
+										            id="general-login-password"
+										            name="general-login-password"
+										            class="osc-general-login-input osc-general-login-input--password"
+										            type="password"
+										            placeholder="Your password"
+										        />
+										      </div>
+										
+										      <a class="osc-general-login-button">
+										        <span class="osc-general-login-button-text">Sign In</span>
+										        <span class="osc-general-login-button-loader"></span>
+										      </a>
+										
+										      <input class="osc-login-hidden-submit-button" type="submit">
+										
+										      <div class="osc-login-help">
+										
+										        <a class="osc-login-help-link osc-login-help-link--phone" href="tel:18556722755">1‑855‑OSCAR‑55</a>
+										        <a class="osc-login-help-link osc-login-help-link--password" href="/member/reset-password/">
+										          Forgot <span class="osc-login-help-elaboration">your</span> password?
+										        </a>
+										        <a class="osc-login-help-link osc-login-help-link--create-account" href="/member/register/">
+										          Create an account
+										        </a>
+										      </div>
+										
+										      <div class="osc-login-error-message-container">
+										        <p
+										            class="osc-login-error-message"
+										            data-server-error="Uh oh! It looks like something went wrong. Please try again later."
+										        ></p>
+										      </div>
+										    </form>
+										
+										    
+										      <div class="osc-create-account">
+										        <h3 class="osc-general-login-header osc-general-login-header--create-account">Already purchased an Oscar
+										          plan?</h3>
+										
+										        <a class="osc-create-account-button" href="/member/register/">Create an account</a>
+										
+										        <h4 class="osc-general-login-footer">Don't have a plan yet?
+										          <a class="osc-general-login-footer-link osc-general-login-footer-link--get-quote" href="/get-oscar/quote/">
+										            Get your quote.
+										          </a>
+										        </h4>
+										
+										      </div>
+										    
+										
+										    <script>
+										      oscComponents.push({
+										        component: 'osc.view.generalLogin.GeneralLoginForm',
+										        options: {
+										          'emailValidationURL': '/auth/validate-email'
+										        }
+										      });
+										    </script>
+										  </section><section class="osc-marketing-menu-section osc-marketing-menu-section--nav">
+										  <nav class="osc-marketing-links">
+										    <ul class="osc-marketing-links-list">
+										      
+										        <li>
+										          <a class="osc-marketing-link osc-marketing-menu-link--network-search" href="/search/">Search doctors, hospitals, and drugs</a>
+										        </li>
+										      
+										        <li>
+										          <a class="osc-marketing-link " href="/faq/">Common questions</a>
+										        </li>
+										      
+										        <li>
+										          <a class="osc-marketing-link " href="http://blog.hioscar.com/">Our blog</a>
+										        </li>
+										      
+										        <li>
+										          <a class="osc-marketing-link osc-marketing-link--full-list" href="/provider/">Provider site</a>
+										        </li>
+										      
+										        <li>
+										          <a class="osc-marketing-link osc-marketing-link--full-list" href="/brokers/">Brokers</a>
+										        </li>
+										      
+										        <li>
+										          <a class="osc-marketing-link osc-marketing-link--full-list" href="/forms/">Forms</a>
+										        </li>
+										      
+										        <li>
+										          <a class="osc-marketing-link osc-marketing-link--full-list" href="/jobs/">Careers</a>
+										        </li>
+										      
+										        <li>
+										          <a class="osc-marketing-link osc-marketing-link--full-list" href="mailto:press@hioscar.com">Press</a>
+										        </li>
+										      
+										    </ul>
+										    <ul class="osc-marketing-links-list osc-marketing-links-list--sublinks">
+										      
+										        <li class="osc-marketing-sublink-item">
+										          <a class="osc-marketing-link osc-marketing-link--sublink" href="/legal/terms/">Terms of Service</a>
+										        </li>
+										      
+										        <li class="osc-marketing-sublink-item">
+										          <a class="osc-marketing-link osc-marketing-link--sublink" href="/legal/privacy/">Privacy Policy</a>
+										        </li>
+										      
+										    </ul>
+										  </nav>
+										
+										  <ul class="osc-tot-links">
+										    
+										      <li class="osc-tot-link-item">
+										        <a class="osc-tot-link osc-tot-link--facebook icon-Facebook" href="//www.facebook.com/OscarHealth"></a>
+										      </li>
+										    
+										      <li class="osc-tot-link-item">
+										        <a class="osc-tot-link osc-tot-link--twitter icon-Twitter" href="//twitter.com/oscarhealth"></a>
+										      </li>
+										    
+										      <li class="osc-tot-link-item">
+										        <a class="osc-tot-link osc-tot-link--instagram icon-Instagram" href="//instagram.com/oscarhealth"></a>
+										      </li>
+										    
+										      <li class="osc-tot-link-item">
+										        <a class="osc-tot-link osc-tot-link--linkedin icon-linkedin" href="//www.linkedin.com/company/3014788"></a>
+										      </li>
+										    
+										      <li class="osc-tot-link-item">
+										        <a class="osc-tot-link osc-tot-link--youtube icon-YouTube" href="//www.youtube.com/user/OscarHealthInsurance"></a>
+										      </li>
+										    
+										  </ul>
+										</section>
+      </div>	<ul>
 											<li><a href="index.html">Home</a></li>
 											<li><a href="generic.html">Generic</a></li>
 											<li><a href="elements.html">Elements</a></li>
