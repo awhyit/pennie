@@ -2551,11 +2551,11 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: transparent;
+		background-color: #6E8894;
 		border-radius: 3px;
 		border: 0;
 		box-shadow: inset 0 0 0 2px #fff;
-		color: #fff;
+		color: #6E8894;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.8em;
@@ -2566,7 +2566,7 @@
 		padding: 0 2.75em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
+		text-transform: none;
 		white-space: nowrap;
 		overflow: hidden;
 		text-overflow: ellipsis;
