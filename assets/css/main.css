@@ -1717,6 +1717,7 @@
 		select:invalid,
 		textarea:invalid {
 			box-shadow: none;
+			outline: rgba(144, 144, 144, 0);
 		}
 
 		input[type="text"]:focus,
@@ -1724,7 +1725,8 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #21b2a6;
+			box-shadow: 0;
+			outline: rgba(144, 144, 144, 0);
 		}
 
 	.select-wrapper {
