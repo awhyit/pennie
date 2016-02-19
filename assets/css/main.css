@@ -2878,8 +2878,9 @@
 				margin:0;
 				text-align: center;
 				padding:0;
-				font-weight: 300;
+				font-weight: 100;
 				letter-spacing: 0em;
+				line-height: 1.8em;
 			}
 			
 			.wrapper.style1 hr {
