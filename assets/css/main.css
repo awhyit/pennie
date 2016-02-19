@@ -2232,7 +2232,7 @@
 			form .field.half {
 				width: 50%;
 				float: left;
-				padding: 0 0 0 0em;
+				padding: 0 0 0 0.75em;
 			}
 
 				form .field.half.first {
@@ -4177,7 +4177,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		max-width: 20em;
+		max-width: 75em;
 	}
 
 		#cta .inner header {
