@@ -2866,6 +2866,7 @@
 				color: #544E61;
 				font-size: 1.2em;
 				margin:0px 0px 0px 0px;
+				text-align: center;
 				padding:0;
 				font-weight: 400;
 				letter-spacing: 0em;
@@ -2873,8 +2874,9 @@
 			
 			.wrapper.style1 h5 {
 				color: #67597A;
-				font-size: .5em;
+				font-size: .8em;
 				margin:0px 0px 0px 0px;
+				text-align: center;
 				padding:0;
 				font-weight: 300;
 				letter-spacing: 0em;
