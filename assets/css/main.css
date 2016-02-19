@@ -2865,7 +2865,7 @@
 			.wrapper.style1 h4 {
 				color: #544E61;
 				font-size: 1.2em;
-				margin:0 0 10em 0;
+				margin:0 0 1em 0;
 				text-align: center;
 				padding:0;
 				font-weight: 400;
@@ -2875,7 +2875,7 @@
 			.wrapper.style1 h5 {
 				color: #67597A;
 				font-size: .6em;
-				margin:0px 0px 0px 0px;
+				margin:0;
 				text-align: center;
 				padding:0;
 				font-weight: 300;
