@@ -2360,6 +2360,7 @@
 	input[type="email"],
 	select {
 		height: 2.75em;
+		width: 13.5em;
 		color: rgb(255,255,255,.25);
 		font-size: 1.9em;
 	}
