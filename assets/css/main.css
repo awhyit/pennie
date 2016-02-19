@@ -2228,9 +2228,9 @@
 		}
 
 			form .field.half {
-				width: 50%;
+				width: 100%;
 				float: left;
-				padding: 0 0 0 0.75em;
+				padding: 0 0 0 0em;
 			}
 
 				form .field.half.first {
@@ -2306,7 +2306,12 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ffffff;
+			border-top-width: 0px;
+	    		border-right-width: 0px;
+	    		border-bottom-color: rgba(255, 255, 255, 0.15);
+	    		border-bottom-style: solid;
+	    		border-bottom-width: 1px;
+	    		border-left-width: 0px;
 			box-shadow: 0 0 0 1px #ffffff;
 		}
 
