@@ -2196,8 +2196,8 @@
 					}
 
 					ul.actions li > * {
-						margin: 30px auto !important;
-						max-width: 30em;
+						margin: 0 auto !important;
+						max-width: 20em;
 						width: 100%;
 					}
 
@@ -2601,7 +2601,7 @@
 		color: #fff;
 		cursor: pointer;
 		display: inline-block;
-		font-size: 0.8em;
+		font-size: 1em;
 		font-weight: 600;
 		height: 3.125em;
 		font-weight: 600;
@@ -2715,8 +2715,8 @@
 			input[type="button"],
 			button,
 			.button {
-				height: 3.75em;
-				line-height: 3.75em;
+				height: 4em;
+				line-height: 4em;
 			}
 
 		}
