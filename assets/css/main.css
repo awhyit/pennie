@@ -4107,6 +4107,7 @@
 
 								#header.alt logo {
 									left: 1.5em;
+									width:50%;
 								}
 									#header.alt nav > ul > li > a.menuToggle span {
 										display: none;
