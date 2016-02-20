@@ -3890,10 +3890,10 @@
 /* Header */
 
 	#header {
-		-moz-transition: background-color 0s ease;
-		-webkit-transition: background-color 0s ease;
-		-ms-transition: background-color 0s ease;
-		transition: background-color 0s ease;
+		-moz-transition: background-color 0.2s ease;
+		-webkit-transition: background-color 0.2s ease;
+		-ms-transition: background-color 0.2s ease;
+		transition: background-color 0.2s ease;
 		box-shadow: 0 0 4px rgba(0,0,0,.14),0 0px 0px rgba(0,0,0,.28);
 		background: #fff;
 		height: 3.5em;
