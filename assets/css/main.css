@@ -3933,17 +3933,16 @@
 				}
 		#header logo {
 			background-image: url("images/pennie_logo.svg");
-			background-position: right center;
+			background-position: left center;
 			background-repeat: no-repeat;
 			content: '';
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
 			display: inline-block;
-			height: 3.5em;
 			vertical-align: top;
-			width: 2em;
-			left: 0;
+			width: 100%;
+			left: 1em;
 			top: 0;
 		}
 
