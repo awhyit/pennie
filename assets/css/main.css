@@ -4021,7 +4021,7 @@
 			-webkit-transition: opacity 0.2s ease;
 			-ms-transition: opacity 0.2s ease;
 			transition: opacity 0.2s ease;
-			opacity: 0.5;
+			opacity: 0;
 			background: transparent;
 			box-shadow: 0 0 0px rgba(0,0,0,.14),0 0px 0px rgba(0,0,0,.28);
 		}
