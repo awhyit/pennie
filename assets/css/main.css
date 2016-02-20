@@ -4003,10 +4003,6 @@
 							}
 
 						@media screen and (max-width: 736px) {
-
-							#header nav > ul > li > a {
-								padding: 0 0 0 1.5em;
-							}
 							
 							#header logo {
 								left: 1.5em;
