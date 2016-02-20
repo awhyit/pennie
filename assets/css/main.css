@@ -1487,7 +1487,7 @@
 	h1 {
 		color: #6E8894;
 		font-weight: 800;
-		letter-spacing: 0.1em;
+		letter-spacing: 0.05em;
 		line-height: 1.3em;
 		font-size:3.5em;
 		margin: 0 0 1em 0;
@@ -1496,7 +1496,7 @@
 		@media screen and (max-width: 736px) {
 
 			h1 {
-				font-size: 1.8em;
+				font-size: 2.41em;
 				line-height: 1.5em;
 				font-weight: bold;
 				
@@ -4268,7 +4268,7 @@
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				padding: 7em 3em 5em 3em ;
+				padding: 9em 1em 5em 1em;
 				height: auto;
 				min-height: 0;
 			}
