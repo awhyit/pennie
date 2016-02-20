@@ -2274,8 +2274,16 @@
 				float:none;
 				margin: 2em 0 0 0 !important;
 			}
-
+			input[type="text"],
+			input[type="password"],
+			input[type="email"],
+			select {
+				width: 100%
+				font-size: 1.9em;
+				text-align: center;
+			}	
 		}
+
 
 	label {
 		color: #ffffff;
