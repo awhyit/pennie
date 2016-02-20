@@ -4010,7 +4010,7 @@
 						@media screen and (max-width: 736px) {
 							
 							#header logo {
-								left: 1.5em;
+								left: 1.8em;
 							}
 							
 							#header.alt {
@@ -4062,7 +4062,7 @@
 			line-height: inherit;
 			position: absolute;
 			right: 3em;
-			top: 2em;
+			top: 2.5em;
 		}
 
 			#header.alt nav > ul {
