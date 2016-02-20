@@ -3942,8 +3942,8 @@
 			display: inline-block;
 			vertical-align: top;
 			width: 100%;
-			left: 1em;
-			top: 0;
+			left: 3em;
+			top: 2em;
 		}
 
 		#header nav {
@@ -4008,6 +4008,11 @@
 							#header nav > ul > li > a {
 								padding: 0 0 0 1.5em;
 							}
+							
+							#header logo {
+								left: 1.5em;
+							}
+							
 							#header.alt {
 								background: #fff;
 								box-shadow: 0 0 4px rgba(0,0,0,.14),0 0px 0px rgba(0,0,0,.28);
