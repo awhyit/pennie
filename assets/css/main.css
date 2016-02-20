@@ -2278,7 +2278,7 @@
 			input[type="password"],
 			input[type="email"],
 			select {
-				width: 100%
+				width: 100%;
 				font-size: 1.9em;
 				text-align: center;
 			}	
