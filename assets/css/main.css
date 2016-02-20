@@ -4054,6 +4054,9 @@
 		position: relative;
 		text-align: center;
 	}
+		#banner .inner {
+			padding-top:1em;
+		}
 
 		#banner h2 {
 			-moz-transform: scale(1);
