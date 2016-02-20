@@ -2274,14 +2274,7 @@
 				float:none;
 				margin: 2em 0 0 0 !important;
 			}
-			input[type="text"],
-			input[type="password"],
-			input[type="email"],
-			select {
-				width: 100%;
-				font-size: 1.9em;
-				text-align: center;
-			}	
+				
 		}
 
 
@@ -2500,7 +2493,17 @@
 		color: rgba(255, 255, 255, 0.35) !important;
 		opacity: 1.0;
 	}
-
+	
+		@media screen and (max-width: 736px) {
+			input[type="text"],
+			input[type="password"],
+			input[type="email"],
+			select {
+				width: 100%;
+				text-align: center;
+			}
+		}
+		
 /* Table */
 
 	.table-wrapper {
