@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>chat logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-1264.000000, -60.000000)" stroke="#ABA1B4">
+            <g id="Page-1" sketch:type="MSLayerGroup" transform="translate(66.000000, 41.000000)">
+                <g id="Talk-with-us" transform="translate(1199.000000, 15.000000)" sketch:type="MSShapeGroup">
+                    <g id="chat-logo" transform="translate(0.000000, 5.000000)">
+                        <path d="M0,0.384423968 C0,0.172112473 0.1796875,0 0.379726648,0 L15.6202734,0 C15.8299906,0 16,0.163331704 16,0.384423968 L16,11.1696275 C16,11.381939 15.823502,11.5540514 15.6173001,11.5540514 L9.88213462,11.5540514 L4.76898224,15.9271936 C4.60852962,16.0644245 4.47845707,16.0001425 4.47845707,15.7974654 L4.47845707,11.5540514 L0.381830731,11.5540514 C0.170951441,11.5540514 0,11.3907197 0,11.1696275 L0,0.384423968 Z" id="Path-12" stroke-width="1.9047619" transform="translate(8.000000, 8.000000) scale(-1, 1) translate(-8.000000, -8.000000) "></path>
+                        <path d="M3.38888889,4.5 L9.61111111,4.5" id="Line" stroke-width="1.14285714" stroke-linecap="square"></path>
+                        <path d="M3,7.5 L12,7.5" id="Line" stroke-width="1.14285714" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
