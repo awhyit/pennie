@@ -4103,7 +4103,9 @@
 
 							@media screen and (max-width: 736px) {
 
-
+								#header.alt logo {
+									left: 1.5em;
+								}
 									#header.alt nav > ul > li > a.menuToggle span {
 										display: none;
 									}
