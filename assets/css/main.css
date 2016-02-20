@@ -2289,12 +2289,12 @@
 	    	border-right-width: 0px;
 	    	border-bottom-color: rgba(255, 255, 255, 0.15);
 	    	border-bottom-style: solid;
-	    	border-bottom-width: 1px;
+	    	border-bottom-width: 2px;
 	    	border-left-width: 0px;
 		color: inherit;
 		display: block;
 		outline: 0;
-		padding: 0 1em;
+		padding: 0 .1em;
 		text-decoration: none;
 		width: 100%;
 	}
@@ -2365,9 +2365,9 @@
 	input[type="password"],
 	input[type="email"],
 	select {
-		height: 2.75em;
-		width: 13.5em;
-		color: rgba(255,255,255,.25);
+		height: 2em;
+		width: 11.6em;
+		color: rgba(255,255,255,.15);
 		font-size: 1.9em;
 	}
 
