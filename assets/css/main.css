@@ -3890,11 +3890,10 @@
 /* Header */
 
 	#header {
-		-webkit-transition: -webkit-transform 0.33s cubic-bezier(0.33, 0, 0.2, 1);
-	        transition: transform 0.33s cubic-bezier(0.33, 0, 0.2, 1);
-	        -webkit-transform: translateY(0);
-	        -ms-transform: translateY(0);
-	        transform: translateY(0);
+		-moz-transition: background-color 0.75s ease;
+		-webkit-transition: background-color 0.75s ease;
+		-ms-transition: background-color 0.75s ease;
+		transition: background-color 0.75s ease;
 		box-shadow: 0 0 1px rgba(0,0,0,.14),0 0px 0px rgba(0,0,0,.28);
 		background: #fff;
 		height: 4.2em;
@@ -3907,10 +3906,10 @@
 	}
 
 		#header h1 {
-			-moz-transition: opacity 0.2s ease;
-			-webkit-transition: opacity 0.2s ease;
-			-ms-transition: opacity 0.2s ease;
-			transition: opacity 0.2s ease;
+			-moz-transition: opacity 0.75s ease;
+			-webkit-transition: opacity 0.75s ease;
+			-ms-transition: opacity 0.75s ease;
+			transition: opacity 0.75s ease;
 			height: inherit;
 			left: 1.25em;
 			line-height: inherit;
@@ -3933,6 +3932,10 @@
 
 				}
 		#header logo {
+			-moz-transition: opacity 0.75s ease;
+			-webkit-transition: opacity 0.75s ease;
+			-ms-transition: opacity 0.75s ease;
+			transition: opacity 0.75s ease;
 			background-image: url("images/pennie_logo.svg");
 			background-position: left center;
 			background-repeat: no-repeat;
@@ -3948,9 +3951,10 @@
 		}
 
 		#header nav {
-			-moz-transition: opacity 0.2s ease;
-			-webkit-transition: opacity 0.2s ease;
-			-ms-transition: opacity 0.2s ease;
+			-moz-transition: opacity 0.75s ease;
+			-webkit-transition: opacity 0.75s ease;
+			-ms-transition: opacity 0.75s ease;
+			transition: opacity 0.75s ease;
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
