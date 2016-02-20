@@ -3413,6 +3413,10 @@
 					font-size: 1.3em;
 					line-height: 1.5em;
 				}
+				.wrapper.style1 h5 {
+					font-size: .85em;
+					line-height: 1.5em;
+				}
 			}
 
 		.wrapper.style2 {
