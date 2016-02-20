@@ -3931,6 +3931,21 @@
 					}
 
 				}
+		#header logo {
+			background-image: url("images/pennie_logo.svg");
+			background-position: right center;
+			background-repeat: no-repeat;
+			content: '';
+			height: inherit;
+			line-height: inherit;
+			position: absolute;
+			display: inline-block;
+			height: 3.5em;
+			vertical-align: top;
+			width: 2em;
+			left: 0;
+			top: 0;
+		}
 
 		#header nav {
 			height: inherit;
