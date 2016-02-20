@@ -3894,9 +3894,9 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		box-shadow: 0 0 4px rgba(0,0,0,.14),0 0px 0px rgba(0,0,0,.28);
+		box-shadow: 0 0 1px rgba(0,0,0,.14),0 0px 0px rgba(0,0,0,.28);
 		background: #fff;
-		height: 3.5em;
+		height: 4.2em;
 		left: 0;
 		line-height: 3em;
 		position: fixed;
@@ -3943,7 +3943,7 @@
 			vertical-align: top;
 			width: 100%;
 			left: 3em;
-			top: 2em;
+			top: .5em;
 		}
 
 		#header nav {
@@ -4033,7 +4033,21 @@
 				transition: opacity 0.2s ease;
 				opacity: 0.5;
 			}
-
+			
+			#header.alt logo {
+			background-image: url("images/pennie_logo.svg");
+			background-position: left center;
+			background-repeat: no-repeat;
+			content: '';
+			height: inherit;
+			line-height: inherit;
+			position: absolute;
+			display: inline-block;
+			vertical-align: top;
+			width: 100%;
+			left: 3em;
+			top: 2em;
+		}
 /* Banner */
 
 	#banner {
