@@ -3943,15 +3943,18 @@
 			vertical-align: top;
 			width: 100%;
 			left: 3em;
-			top: .5em;
+			top: .2em;
 		}
 
 		#header nav {
+			-moz-transition: opacity 0.2s ease;
+			-webkit-transition: opacity 0.2s ease;
+			-ms-transition: opacity 0.2s ease;
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
 			right: 3em;
-			top: 2em;
+			top: .6em;
 		}
 
 			#header nav > ul {
@@ -4048,6 +4051,64 @@
 			left: 3em;
 			top: 2em;
 		}
+		
+		#header.alt nav {
+			height: inherit;
+			line-height: inherit;
+			position: absolute;
+			right: 3em;
+			top: 2em;
+		}
+
+			#header.alt nav > ul {
+				list-style: none;
+				margin: 0;
+				padding: 0;
+				white-space: nowrap;
+			}
+
+				#header.alt nav > ul > li {
+					display: inline-block;
+					padding: 0;
+				}
+
+					#header.alt nav > ul > li > a {
+						border: 0;
+						color: #ABA1B4;
+						display: block;
+						font-size: 0.9em;
+						letter-spacing: 0.05em;
+					}
+
+						#header.alt nav > ul > li > a.menuToggle {
+							outline: 0;
+							position: relative;
+						}
+
+							#header.alt nav > ul > li > a.menuToggle:after {
+								background-image: url("images/chat_logo.svg");
+								background-position: right center;
+								background-repeat: no-repeat;
+								content: '';
+								display: inline-block;
+								height: 3.5em;
+								vertical-align: top;
+								width: 2em;
+							}
+
+							@media screen and (max-width: 736px) {
+
+
+									#header.alt nav > ul > li > a.menuToggle span {
+										display: none;
+									}
+
+							}
+
+					
+					#header.alt nav > ul > li:first-child {
+						margin-left: 0;
+					}
 /* Banner */
 
 	#banner {
