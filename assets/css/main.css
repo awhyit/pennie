@@ -1642,7 +1642,7 @@
 	}
 
 	header.major {
-		margin: 0 0 3.5em 0;
+		margin: 0 auto 6em auto;
 	}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
@@ -3254,8 +3254,8 @@
 	}
 
 		.wrapper > .inner {
-			width: 60em;
-			margin: 0 auto;
+			width: 90%;
+			margin: 5em auto 10em auto;
 		}
 
 			@media screen and (max-width: 1280px) {
@@ -3313,7 +3313,7 @@
 			
 			.wrapper.style1 h5 {
 				color: #67597A;
-				font-size: .6em;
+				font-size: .7em;
 				margin:0;
 				text-align: center;
 				padding:0;
