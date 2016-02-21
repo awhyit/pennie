@@ -1490,11 +1490,22 @@
 		letter-spacing: 0.05em;
 		line-height: 1.3em;
 		font-family: Lato;
-		font-size:3.5em;
+		font-size: 5em;
 		margin: 0 0 1em 0;
 	}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 980px) {
+			
+			h1 {
+				font-size 3.1em;
+				line-height: 1.5em;
+				font-weight: bold;
+				margin: 0 0 1em ;
+			}
+			
+		}
+		
+		media screen and (max-width: 736px) {
 
 			h1 {
 				font-size 3.1em;
