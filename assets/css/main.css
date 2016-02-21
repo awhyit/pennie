@@ -2018,27 +2018,27 @@
 	}
 	
 	.icon1 img{
-		border-radius: 3px;
-		border: 0;
-		display: inline-block;
+		display: block;
 		position: relative;
-		padding: 1em 1em 1em 3.6em;
+		width:100%;
+		height: 150px;
+		margin-bottom: 1em;
 	}
 	
 	.icon2 img{
-		border-radius: 3px;
-		border: 0;
-		display: inline-block;
+		display: block;
 		position: relative;
-		padding: 1em 1em 1em 3.6em;
+		width:100%;
+		height: 150px;
+		margin-bottom: 1em;
 	}
 	
 	.icon3 img{
-		border-radius: 3px;
-		border: 0;
-		display: inline-block;
+		display: block;
 		position: relative;
-		padding: 1em 1em 1em 3.6em;
+		width:100%;
+		height: 150px;
+		margin-bottom: 1em;
 	}
 
 		.image img {
