@@ -3166,14 +3166,17 @@
 
 		.spotlight:nth-child(1) {
 			background-color: #fff;
+			padding-bottom: 10em;
 		}
 
 		.spotlight:nth-child(2) {
 			background-color: #fff;
+			padding-bottom: 10em;
 		}
 
 		.spotlight:nth-child(3) {
 			background-color: #fff;
+			padding-bottom: 10em;
 		}
 
 		.spotlight:nth-child(4) {
@@ -3244,7 +3247,18 @@
 			.spotlight .content {
 				padding: 3em 2em 1em 2em ;
 			}
-
+			
+			.spotlight:nth-child(1) {
+				padding-bottom: 0;
+			}
+			
+			.spotlight:nth-child(2) {
+				padding-bottom: 0;
+			}
+			
+			.spotlight:nth-child(3) {
+				padding-bottom: 0;
+			}
 		}
 
 /* compliance */
