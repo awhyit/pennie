@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="748px" height="529px" viewBox="0 0 748 529" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>investor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.862745098   0 0 0 0 0.862745098   0 0 0 0 0.862745098  0 0 0 0.7 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="investor" sketch:type="MSArtboardGroup">
+            <g id="laptop" sketch:type="MSLayerGroup" transform="translate(2.000000, 53.000000)">
+                <rect id="outer-border" stroke="#F6F6F6" stroke-width="2.16972646" fill="#F6F6F6" sketch:type="MSShapeGroup" x="42.9820019" y="0.0614944307" width="652.694715" height="406.089747" rx="23.8669911"></rect>
+                <rect id="inner-border" stroke="#D3CED7" stroke-width="1.57499993" fill="#FFFFFF" sketch:type="MSShapeGroup" x="78.7597849" y="35.3029278" width="581.135226" height="341.028639"></rect>
+                <rect id="browserbar-bottom" stroke="#D3CED7" stroke-width="1.57499993" sketch:type="MSShapeGroup" x="78.7597849" y="35.3029278" width="581.135226" height="17.8918046"></rect>
+                <g id="laptop-bottown" transform="translate(0.000000, 405.633663)" sketch:type="MSShapeGroup">
+                    <path d="M0.524682652,1.57425743 L743.475317,1.57425743" id="Line" stroke="#F6F6F6" stroke-width="3.14999986" stroke-linecap="square"></path>
+                    <path d="M1.5110866,3.562058 L36.9527703,16.2256138 C38.590788,16.8108887 41.3375992,17.2853478 43.0631916,17.2853478 L692.667459,17.2853478 C694.404134,17.2853478 697.162547,16.8882232 698.837422,16.3957362 L742.195122,3.64665485 L1.5110866,3.562058 Z" id="Path-60" stroke="#DCDCDC" stroke-width="1.04999995" fill="#DCDCDC" filter="url(#filter-1)"></path>
+                </g>
+                <g id="Group" transform="translate(105.322869, 40.182511)" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-right" stroke="#F6F6F6" stroke-width="0.542431616" fill="#F6F6F6" cx="4.06577816" cy="4.06631923" rx="4.06577816" ry="4.06631923"></ellipse>
+                    <ellipse id="Oval-right" cx="4.06577816" cy="4.06631923" rx="2.16841502" ry="2.16870359"></ellipse>
+                </g>
+                <g id="left-browser-button" transform="translate(83.638719, 40.182511)" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-right" stroke="#F6F6F6" stroke-width="0.542431616" fill="#F6F6F6" cx="4.06577816" cy="4.06631923" rx="4.06577816" ry="4.06631923"></ellipse>
+                    <ellipse id="Oval-right" cx="4.06577816" cy="4.06631923" rx="2.16841502" ry="2.16870359"></ellipse>
+                </g>
+                <g id="middle-browser-button" transform="translate(94.480794, 40.182511)" sketch:type="MSShapeGroup">
+                    <ellipse id="Oval-right" stroke="#F6F6F6" stroke-width="0.542431616" fill="#F6F6F6" cx="4.06577816" cy="4.06631923" rx="4.06577816" ry="4.06631923"></ellipse>
+                    <ellipse id="Oval-right" cx="4.06577816" cy="4.06631923" rx="2.16841502" ry="2.16870359"></ellipse>
+                </g>
+                <g id="icamera" transform="translate(366.074775, 11.989364)" stroke="#F6F6F6" stroke-width="0.542431616" fill="#F6F6F6" sketch:type="MSShapeGroup">
+                    <path d="M3.19842539,6.18080192 C4.84510139,6.18080192 6.17999605,4.84572962 6.17999605,3.19883448 C6.17999605,1.55193935 4.84510139,0.21686705 3.19842539,0.21686705 C1.55174939,0.21686705 0.216854737,1.55193935 0.216854737,3.19883448 C0.216854737,4.84572962 1.55174939,6.18080192 3.19842539,6.18080192 Z M3.19842539,4.78921712 C4.07665259,4.78921712 4.78859641,4.07717856 4.78859641,3.19883448 C4.78859641,2.32049041 4.07665259,1.60845185 3.19842539,1.60845185 C2.32019819,1.60845185 1.60825438,2.32049041 1.60825438,3.19883448 C1.60825438,4.07717856 2.32019819,4.78921712 3.19842539,4.78921712 Z" id="Oval-outside"></path>
+                </g>
+                <g id="logo" transform="translate(103.887165, 74.514851)">
+                    <text id="LOGO" sketch:type="MSTextLayer" font-family="Futura" font-size="9.76376909" font-style="condensed" font-weight="686" fill="#4A4A4A">
+                        <tspan x="17.8392102" y="10">LOGO</tspan>
+                    </text>
+                    <ellipse id="Oval-40" fill="#6E8894" sketch:type="MSShapeGroup" cx="5.77150917" cy="5.77227723" rx="5.77150917" ry="5.77227723"></ellipse>
+                </g>
+            </g>
+            <g id="search-bar" sketch:type="MSLayerGroup" transform="translate(279.000000, 235.000000)">
+                <path d="M0,19.4339623 L181.5,19.4339623" id="Line-1" stroke="#E1DEE9" stroke-width="0.5" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <text id="loan-ID,-location,-s" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="13.5" font-weight="normal" letter-spacing="0.3375" fill="#E1DEE9">
+                    <tspan x="1" y="14">loan ID, location, status </tspan>
+                </text>
+                <g id="search-button" transform="translate(187.000000, 1.429993)" sketch:type="MSShapeGroup">
+                    <g id="Hero-button" fill="#6E8894">
+                        <rect x="0" y="0" width="23" height="18" rx="2.25"></rect>
+                    </g>
+                    <g id="search-icon" transform="translate(12.500000, 10.000000) rotate(-310.000000) translate(-12.500000, -10.000000) translate(6.000000, 7.000000)">
+                        <ellipse id="Oval-9" stroke="#FFFFFF" stroke-width="0.847355713" cx="3.16666667" cy="3" rx="3.16666667" ry="3"></ellipse>
+                        <rect id="Rectangle-14" fill="#FFFFFF" x="7.33333333" y="2.52631579" width="5.66666667" height="0.947368421" rx="0.329527222"></rect>
+                        <polygon id="Triangle-1" fill="#FFFFFF" transform="translate(7.166667, 3.000000) scale(-1, 1) rotate(-270.000000) translate(-7.166667, -3.000000) " points="7.16666667 2.52631579 7.66666667 3.47368421 6.66666667 3.47368421 "></polygon>
+                        <path d="M7.16666667,3 L6.83333333,3" id="Line" stroke="#FFFFFF" stroke-width="0.50625" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+            <text id="Good-afternoon,-Step" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="9" font-weight="bold" fill="#D3CED7">
+                <tspan x="279" y="187">Good afternoon, Stephen</tspan>
+            </text>
+            <g id="How-can-I-assit-you-today" sketch:type="MSLayerGroup" transform="translate(279.000000, 205.000000)" font-weight="normal" font-family="Avenir Next" letter-spacing="0.3375" fill="#544E61" font-size="13.5">
+                <text id="How-can-I-assist-you" sketch:type="MSTextLayer">
+                    <tspan x="0" y="14">How can I assist you today?</tspan>
+                </text>
+            </g>
+            <g id="Talk-with-us" sketch:type="MSLayerGroup" transform="translate(576.000000, 136.000000)">
+                <text id="Chat-Now" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="6" font-weight="420" sketch:alignment="middle" fill="#544E61">
+                    <tspan x="11.7568943" y="6">Chat Now</tspan>
+                </text>
+                <g id="chat-logo" transform="translate(0.000000, 1.173913)" sketch:type="MSShapeGroup">
+                    <path d="M0,0.367167592 C0,0.16438653 0.16403482,0 0.378798275,0 L7.47486026,0 C7.68406477,0 7.85365854,0.169334619 7.85365854,0.367167592 L7.85365854,5.50239763 C7.85365854,5.70517869 7.69248516,5.86956522 7.48029047,5.86956522 L4.10271445,5.86956522 L2.79807596,7.53739544 C2.67335616,7.69683536 2.57225078,7.65927501 2.57225078,7.44884989 L2.57225078,5.86956522 L0.379544461,5.86956522 C0.169927843,5.86956522 0,5.7002306 0,5.50239763 L0,0.367167592 Z" id="Path-12" stroke="#544E61" stroke-width="0.5625" transform="translate(3.926829, 3.913043) scale(-1, 1) translate(-3.926829, -3.913043) "></path>
+                    <path d="M0.93495935,1.76086957 L3.92682927,1.76086957" id="Line" stroke="#67597A" stroke-width="0.5" stroke-linecap="square"></path>
+                    <path d="M0.93495935,3.32608696 L5.42276423,3.32608696" id="Line" stroke="#67597A" stroke-width="0.5" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="lower-section" sketch:type="MSLayerGroup" transform="translate(98.000000, 313.000000)">
+                <path d="M-0.000290751457,0.5 L547.999709,0.5" id="Line-2" stroke="#F6F6F6" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+                <text id="Mortgage-overview" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="7.23242188" font-weight="420">
+                    <tspan x="78" y="36" fill="#544E61">Portfolio</tspan>
+                    <tspan x="105.975008" y="36" fill="#ABA1B4"></tspan>
+                    <tspan x="78" y="46" fill="#544E61">Overview</tspan>
+                    <tspan x="109.800959" y="46" fill="#ABA1B4"> </tspan>
+                </text>
+                <g id="Balance" transform="translate(269.000000, 27.000000)" font-family="Avenir Next" sketch:type="MSTextLayer">
+                    <text id="Balance-amount-number" font-size="11.1585937" font-weight="normal" fill="#ABA1B4">
+                        <tspan x="0" y="11">1340 </tspan>
+                        <tspan x="28.6775859" y="11" font-size="5.57929687">LOANS</tspan>
+                    </text>
+                    <text id="BALANCE" font-size="5.16601562" font-weight="420" sketch:alignment="middle" fill="#544E61">
+                        <tspan x="0.471030273" y="19.9814453">INVESTMENT COUNT</tspan>
+                    </text>
+                </g>
+                <g id="Balance" transform="translate(180.177734, 27.000000)" font-family="Avenir Next" sketch:type="MSTextLayer">
+                    <text id="Balance-amount-number" font-size="11.1585937" font-weight="normal" fill="#ABA1B4">
+                        <tspan x="0.822265625" y="11">$262,640,270.</tspan>
+                        <tspan x="74.2458125" y="11" font-size="5.57929687">11</tspan>
+                    </text>
+                    <text id="BALANCE" font-size="5.16601562" font-weight="420" sketch:alignment="middle" fill="#544E61">
+                        <tspan x="1.03351562" y="19.9814453">PRINCIPAL INVESTED</tspan>
+                    </text>
+                </g>
+                <g id="Interest-paid" transform="translate(355.822266, 27.000000)" font-family="Avenir Next" sketch:type="MSTextLayer">
+                    <text id="Balance-amount-number" font-size="11.1585937" font-weight="normal" fill="#ABA1B4">
+                        <tspan x="0.997741699" y="11">$196,000.</tspan>
+                        <tspan x="52.1041011" y="11" font-size="5.57999992">20</tspan>
+                    </text>
+                    <text id="Interest" font-size="5.16601562" font-weight="420" sketch:alignment="middle" fill="#544E61">
+                        <tspan x="1.22481689" y="19.9814453">AVERAGE LOAN</tspan>
+                    </text>
+                </g>
+                <g id="Rate" transform="translate(269.000000, 74.000000)" font-family="Avenir Next" sketch:type="MSTextLayer">
+                    <text id="Interest-rate" font-size="5.16601562" font-weight="420" sketch:alignment="middle" fill="#544E61">
+                        <tspan x="0.227050781" y="19.9814453">W-AVG. RATE</tspan>
+                    </text>
+                    <text font-size="11.1585937" font-weight="normal" fill="#ABA1B4">
+                        <tspan x="0" y="11">9.4</tspan>
+                        <tspan x="15.8452031" y="11" font-size="5.57929697">%  </tspan>
+                    </text>
+                </g>
+                <g id="Rate" transform="translate(356.820007, 74.000000)" font-family="Avenir Next" sketch:type="MSTextLayer">
+                    <text id="Interest-rate" font-size="5.16601562" font-weight="420" sketch:alignment="middle" fill="#544E61">
+                        <tspan x="0.0644519043" y="19.9814453">PERFORMANCE</tspan>
+                    </text>
+                    <text font-size="11.1585937" font-weight="normal" fill="#ABA1B4">
+                        <tspan x="0.0299987793" y="11">3.2</tspan>
+                        <tspan x="15.8752019" y="11" font-size="5.57929697">%  DQ</tspan>
+                    </text>
+                </g>
+                <g id="Term" transform="translate(181.000000, 74.000000)" font-family="Avenir Next" sketch:type="MSTextLayer">
+                    <text font-size="5.16601562" font-weight="420" sketch:alignment="middle" fill="#6C6C6C">
+                        <tspan x="0.366958008" y="19.9814453">W-AVG LOAN TERM</tspan>
+                    </text>
+                    <text id="Term-amount" font-size="11.1585937" font-weight="normal" fill="#ABA1B4">
+                        <tspan x="0" y="11">15.37</tspan>
+                        <tspan x="28.7891719" y="11" font-size="5.57929697"> YEARS</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Auto-payment" sketch:type="MSLayerGroup" transform="translate(158.000000, 391.000000)">
+                <text id="Export-Data" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="6.19921875" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="18" y="9">Export Data</tspan>
+                </text>
+                <g id="Group-2">
+                    <circle id="Oval-10" stroke="#6E8894" stroke-width="1.23984375" sketch:type="MSShapeGroup" cx="5.16601562" cy="7.16601562" r="5.16601562"></circle>
+                    <text id="+" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="10" font-weight="420" fill="#6E8894">
+                        <tspan x="2" y="10">+</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
