@@ -2017,7 +2017,7 @@
 		position: relative;
 	}
 	
-	.image icon1{
+	.icon1 img{
 		border-radius: 3px;
 		border: 0;
 		display: inline-block;
@@ -2025,7 +2025,7 @@
 		padding: 1em 1em 1em 3.6em;
 	}
 	
-	.image icon2{
+	.icon2 img{
 		border-radius: 3px;
 		border: 0;
 		display: inline-block;
@@ -2033,7 +2033,7 @@
 		padding: 1em 1em 1em 3.6em;
 	}
 	
-	.image icon3{
+	.icon3 img{
 		border-radius: 3px;
 		border: 0;
 		display: inline-block;
