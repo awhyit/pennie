@@ -3247,6 +3247,132 @@
 
 		}
 
+/* compliance */
+
+	.compliance {
+		-moz-align-items: center;
+		-webkit-align-items: center;
+		-ms-align-items: center;
+		align-items: center;
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+	}
+
+		.compliance .image {
+			-moz-order: 1;
+			-webkit-order: 1;
+			-ms-order: 1;
+			order: 1;
+			border-radius: 0;
+			width: 40%;
+		}
+
+			.compliance .image img {
+				border-radius: 0;
+				width: 100%;
+			}
+
+		.compliance .content {
+			padding: 2em 4em 0.1em 4em ;
+			-moz-order: 2;
+			-webkit-order: 2;
+			-ms-order: 2;
+			order: 2;
+			max-width: 48em;
+			width: 60%;
+		}
+
+		.compliance:nth-child(2n) {
+			-moz-flex-direction: row-reverse;
+			-webkit-flex-direction: row-reverse;
+			-ms-flex-direction: row-reverse;
+			flex-direction: row-reverse;
+		}
+
+		.compliance:nth-child(1) {
+			background-color: #fff;
+		}
+
+		.compliance:nth-child(2) {
+			background-color: #fff;
+		}
+
+		.compliance:nth-child(3) {
+			background-color: #fff;
+		}
+
+		.compliance:nth-child(4) {
+			background-color: rgba(0, 0, 0, 0.3);
+		}
+
+		.compliance:nth-child(5) {
+			background-color: rgba(0, 0, 0, 0.375);
+		}
+
+		.compliance:nth-child(6) {
+			background-color: rgba(0, 0, 0, 0.45);
+		}
+
+		.compliance:nth-child(7) {
+			background-color: rgba(0, 0, 0, 0.525);
+		}
+
+		.compliance:nth-child(8) {
+			background-color: rgba(0, 0, 0, 0.6);
+		}
+
+		.compliance:nth-child(9) {
+			background-color: rgba(0, 0, 0, 0.675);
+		}
+
+		.compliance:nth-child(10) {
+			background-color: rgba(0, 0, 0, 0.75);
+		}
+
+		@media screen and (max-width: 1280px) {
+
+			.compliance .image {
+				width: 45%;
+			}
+
+			.compliance .content {
+				width: 55%;
+			}
+
+		}
+
+		@media screen and (max-width: 980px) {
+
+			.compliance {
+				display: block;
+			}
+
+				.compliance br {
+					display: none;
+				}
+
+				.compliance .image {
+					width: 100%;
+				}
+
+				.compliance .content {
+					padding: 4em 3em 2em 3em ;
+					max-width: none;
+					text-align: center;
+					width: 100%;
+				}
+
+		}
+
+		@media screen and (max-width: 736px) {
+
+			.compliance .content {
+				padding: 3em 2em 1em 2em ;
+			}
+
+		}
 /* Wrapper */
 
 	.wrapper {
