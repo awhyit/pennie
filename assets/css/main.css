@@ -2018,6 +2018,8 @@
 	}
 	
 	.icon1 img{
+		border-radius: 3px;
+ 		border: 0;
 		display: block;
 		position: relative;
 		width:100%;
@@ -2026,6 +2028,8 @@
 	}
 	
 	.icon2 img{
+		border-radius: 3px;
+		border: 0;
 		display: block;
 		position: relative;
 		width:100%;
@@ -2034,6 +2038,8 @@
 	}
 	
 	.icon3 img{
+		border-radius: 3px;
+		border: 0;
 		display: block;
 		position: relative;
 		width:100%;
