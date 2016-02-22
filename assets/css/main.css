@@ -3583,10 +3583,25 @@
 			.wrapper.style3 textarea {
 				background: rgba(255, 255, 255, 0.075);
 				border-bottom-color: #6E8894;
+				border-bottom-width: 1px;
 				color:#ABA1B4;
 				text-align: start;
 				cursor: auto;
 				width: 100%;
+			}
+			
+			.wrapper.style3	input[type="text"]:focus,
+			.wrapper.style3	input[type="password"]:focus,
+			.wrapper.style3	input[type="email"]:focus,
+			.wrapper.style3	input[type="tel"]:focus,
+			.wrapper.style3	select:focus,
+			.wrapper.style3	textarea:focus {
+				border-top-width: 0px;
+		    		border-right-width: 0px;
+		    		border-bottom-style: solid;
+		    		border-bottom-width: 1.5px;
+		    		border-left-width: 0px;
+				box-shadow: 0 0 0 1px #ffffff;
 			}
 
 			.wrapper.style3 .select-wrapper:before {
