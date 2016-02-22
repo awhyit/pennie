@@ -2254,11 +2254,20 @@
 						padding: 0 0 0 0.75em;
 					}
 
-			@media screen and (max-width: 736px) {
-
-			ul.actions {
+			@media screen and (max-width: 980px) {
+				ul.actions {
 				display: block;
-				width: 90%;
+				width: 35%;
+				}
+			}
+
+			@media screen and (max-width: 736px) {
+			
+				ul.actions {
+					display: block;
+					width: 90%;
+					
+			
 			}
 				
 				ul.actions li {
