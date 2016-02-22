@@ -2185,9 +2185,11 @@
 		}
 
 			ul.actions li {
-				display: inline-block;
-				padding: 2em 1.5em 0 0;
-				vertical-align: middle;
+				    display: block;
+				    padding: 4em 1.5em 0 0;
+				    vertical-align: middle;
+				    width: 27%;
+				    margin: auto;
 			}
 
 				ul.actions li:last-child {
