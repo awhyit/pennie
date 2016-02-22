@@ -2407,11 +2407,10 @@
 		textarea:focus {
 			border-top-width: 0px;
 	    		border-right-width: 0px;
-	    		border-bottom-color: rgba(255, 255, 255, 0.15);
+	    		border-bottom-color: rgba(255, 255, 255, 1);
 	    		border-bottom-style: solid;
 	    		border-bottom-width: 1px;
 	    		border-left-width: 0px;
-			box-shadow: 0 0 0 1px #ffffff;
 		}
 
 	.select-wrapper {
