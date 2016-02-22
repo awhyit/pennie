@@ -2432,6 +2432,8 @@
 	    		border-bottom-style: solid;
 	    		border-bottom-width: 1px;
 	    		border-left-width: 0px;
+	    		color:#fff;
+	    		font-weight: 400;
 		}
 
 	.select-wrapper {
