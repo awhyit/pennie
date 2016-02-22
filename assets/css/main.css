@@ -3610,6 +3610,7 @@
 				text-align: start;
 				cursor: auto;
 				width: 100%;
+				font-size: 1.0em;
 			}
 			
 			.wrapper.style3	input[type="text"]:focus,
