@@ -4509,6 +4509,8 @@
 			-ms-order: 2;
 			order: 2;
 			max-width: none;
+			width: 30%;
+			margin: auto;
 		}
 
 		@media screen and (max-width: 980px) {
@@ -4527,7 +4529,7 @@
 					margin-left: auto;
 					margin-right: auto;
 					max-width: none;
-					width: 100%;
+					width: 30%;
 				}
 
 		}
@@ -4540,6 +4542,7 @@
 			}
 			#cta .inner .actions {
 				max-width: none;
+				width: 100%;
 			}
 
 		}
