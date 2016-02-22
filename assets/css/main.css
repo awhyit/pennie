@@ -2692,6 +2692,7 @@
 		text-transform: none;
 		white-space: nowrap;
 		overflow: hidden;
+		width: 100%;
 		text-overflow: ellipsis;
 	}
 
