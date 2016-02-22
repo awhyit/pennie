@@ -88,7 +88,7 @@
 		width: 27%;
 		margin: auto;
 	}
-
+	
 	.row.\30 \25 > * {
 		padding: 0 0 0 0em;
 	}
@@ -973,6 +973,11 @@
 
 		.row.uniform > * {
 			padding: 1.5em 0 0 1.5em;
+		}
+	
+		.row.uniform > * > :last-child {
+			width: 100%;
+    			margin: auto;
 		}
 
 		.row.uniform {
@@ -3740,6 +3745,12 @@
 					font-size: .85em;
 					line-height: 1.5em;
 				}
+				.wrapper.style3 > .form {
+					width: 90%;
+					margin: 0em auto 10em auto;
+				}
+    			
+		}
 
 			}
 
