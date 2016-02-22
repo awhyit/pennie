@@ -3728,6 +3728,9 @@
 				.wrapper.style3 > .inner {
 					width: 100%;
 				}
+				.wrapper.style3 > .form {
+					width: 70%;
+					margin: 0em auto 10em auto
 
 			}
 
