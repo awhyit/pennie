@@ -3696,6 +3696,9 @@
 			.wrapper.style3 textarea {
 				background: rgba(255, 255, 255, 0.075);
 				border-bottom-color: #6E8894;
+				color:#ABA1B4;
+				text-align: start;
+				cursor: auto;
 			}
 
 			.wrapper.style3 .select-wrapper:before {
