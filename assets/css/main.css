@@ -3689,13 +3689,14 @@
 			margin: 0em auto 10em auto;
 		}
 		.wrapper.style3 > .form {
+			width: 50%;
 			margin: auto;
-    			width: 50%;
+    			
 		}
 
 			@media screen and (max-width: 1280px) {
 
-				.wrapper > .inner {
+				.wrapper.style3 > .inner {
 					width: 90%;
 				}
 
@@ -3703,7 +3704,7 @@
 
 			@media screen and (max-width: 980px) {
 
-				.wrapper > .inner {
+				.wrapper.style3 > .inner {
 					width: 100%;
 				}
 
@@ -3715,11 +3716,11 @@
 					border-top-color: rgba(0, 0, 0, 0.125);
 				}
 			
-				.wrapper.style2 h3 {
+				.wrapper.style3 h3 {
 					font-size: 1.3em;
 					line-height: 1.5em;
 				}
-				.wrapper.style2 h5 {
+				.wrapper.style3 h5 {
 					font-size: .85em;
 					line-height: 1.5em;
 				}
