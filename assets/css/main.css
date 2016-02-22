@@ -2299,13 +2299,13 @@
 			}
 			
 			form .field.rquarter {
-				width: 25%;
-				float: left;
+				width: 10%;
+				float: right;
 				padding: 0 0 0 0.75em;
 			}
 			form .field.lquarter {
-				width: 25%;
-				float: right;
+				width: 10%;
+				float: left;
 				padding: 0 0 0 0.75em;
 			}
 
