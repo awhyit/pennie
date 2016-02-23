@@ -3342,7 +3342,8 @@
 
 		.wrapper.style1 {
 			background-color: #fff;
-			color: #ABA1B4;
+			/*color: #ABA1B4;*/
+			color: #67597A;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -3404,7 +3405,8 @@
 			}
 		*/
 			.wrapper.style1 header.major p {
-				color: #ABA1B4;
+				/*color: #ABA1B4;*/
+				color: #67597A;
 			}
 
 			.wrapper.style1 label {
@@ -3546,7 +3548,8 @@
 			}
 			
 		.wrapper.style2 h5 {
-				color: #ABA1B4;
+				/*color: #aba1b4;*/
+				color: #67597A;
 				font-size: 1em;
 				margin:0;
 				padding:0;
